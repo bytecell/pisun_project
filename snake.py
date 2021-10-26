@@ -1,2 +1,2 @@
-print('I don\'t bite ^^')
+print('I don\'t bite ^_^')
 print('I don\'t bite, really...')
